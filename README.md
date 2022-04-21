@@ -1,4 +1,4 @@
 # doselect
 Group 3 (Doselect Questions)
-Naveen Reddy
-Likith Kumar
+(11-15),(31-35),(51-55)
+
